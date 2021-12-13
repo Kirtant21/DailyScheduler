@@ -1,0 +1,54 @@
+Randy;815;Coffee
+Randy;830;Gym
+Jamal;800;Wake up
+Jamal;815;Coffee
+Jamal;830;Gym
+Jamal;915;Shower and breakfast
+Jamal;1015;Travel to class
+Jamal;1030;Class 1
+Randy;800;Wake up
+Randy;915;Shower and breakfast
+Randy;1015;Travel to class
+Himari;815;Coffee
+Himari;830;Gym
+Himari;915;Shower and breakfast
+Himari;1015;Travel to class
+Himari;1030;Class 1
+Himari;1145;Travel to Lunch
+Randy;1545;Travel home
+Randy;1600;Homework and studying
+Randy;1800;Dinner with friends
+Randy;1900;Hang with friends
+Randy;2000;Homework and studying
+Randy;2200;Games, friends, and parties
+Randy;2400;Sleep
+Himari;800;Wake up
+Himari;2200;Games, friends, and parties
+Himari;2400;Sleep
+Randy;1030;Class 1
+Himari;1200;Lunch and hang with friends
+Himari;1300;Class 2
+Himari;1415;Travel to class
+Himari;1430;Class 3
+Himari;1545;Travel home
+Himari;1600;Homework and studying
+Jamal;1900;Hang with friends
+Jamal;2000;Homework and studying
+Jamal;2200;Games, friends, and parties
+Jamal;2400;Sleep
+Himari;1800;Dinner with friends
+Himari;1900;Hang with friends
+Himari;2000;Homework and studying
+Randy;1145;Travel to Lunch
+Randy;1200;Lunch and hang with friends
+Randy;1300;Class 2
+Randy;1415;Travel to class
+Randy;1430;Class 3
+Jamal;1145;Travel to Lunch
+Jamal;1200;Lunch and hang with friends
+Jamal;1300;Class 2
+Jamal;1415;Travel to class
+Jamal;1430;Class 3
+Jamal;1545;Travel home
+Jamal;1600;Homework and studying
+Jamal;1800;Dinner with friends

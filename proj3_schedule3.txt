@@ -1,0 +1,450 @@
+Kennan Short;2120;Study
+Jasper V. Mooney;750;Homework
+Kennan Short;930;Close
+Levi L. Mckay;1610;Homework
+Shelby Wade;640;Experiment
+Piper T. Burris;1120;Watch TV
+Brent Gill;930;Watch YouTube
+Alvin Parks;1510;Listen
+Jason F. Nieves;930;Listen
+Jasper V. Mooney;1630;Spell
+Lucian W. Mcguire;2010;Rest
+Cherokee Conrad;500;Open
+Madeson Blake;850;Experiment
+Boris R. Jimenez;2020;Spell
+Branden D. Salas;630;Experiment
+Brent Gill;940;Give
+Levi L. Mckay;1000;Run
+Bree Harrison;730;Think
+Dustin E. Keller;540;Give
+Erich S. Thornton;1620;Code
+Thane Abbott;1850;Explain
+Dustin A. Adams;1240;Walk
+Lucian W. Mcguire;1330;Homework
+Erasmus Pruitt;1020;Play Music
+Bree Harrison;1330;Give
+Hyacinth Stokes;1350;Game
+Jerry C. Shannon;940;Play Music
+Kasimir Byrd;810;Walk
+Abbot Hall;1650;Observe
+Driscoll David;630;Exercise
+Keaton Ross;1220;Sleep
+Reece G. Ferguson;1610;Eat
+Solomon Mcgowan;1300;Ask
+Jerry C. Shannon;700;Class
+Paula L. Bridges;1220;Game
+Thane Abbott;2350;Give
+Dustin A. Adams;1300;Ask
+Kennan Short;650;Give
+Boris R. Jimenez;1320;Spell
+Ivana Horne;1220;Listen
+James Arnold;1250;Sleep
+Boris R. Jimenez;1540;Sing
+Lars A. Hays;1540;Exercise
+Reece G. Ferguson;1320;Ask
+Erich S. Thornton;2030;Class
+Hanae D. Webb;1800;Walk
+Shelby Wade;2050;Say
+Ishmael Boyle;850;Experiment
+Madeson Blake;1850;Say
+Maisie Webster;2120;Study
+Brent Gill;1120;Think
+Lars A. Hays;1810;Listen
+Bree Harrison;1110;Read
+Eugenia Y. Dillard;2030;Study
+Rogan V. Stein;1210;Play Music
+Driscoll David;1110;Rest
+Dustin A. Adams;940;Nap
+Solomon Mcgowan;2400;Play Music
+Abbot Hall;1440;Teach
+Oren Q. Stout;1550;Play
+Clayton Martinez;1450;Open
+Boris R. Jimenez;2400;Draw
+Kay Atkins;1350;Class
+Malik Frazier;1230;Ask
+Fuller F. Jacobs;1220;Watch YouTube
+Erasmus Pruitt;1230;Draw
+Lars A. Hays;1220;Run
+Madeson Blake;2350;Read
+Madeson Blake;810;Exercise
+Angela H. Mack;2240;Paint
+James Arnold;1510;Show
+Bree Harrison;1250;Homework
+Jasper V. Mooney;1220;Say
+Paula L. Bridges;1230;Paint
+Oren Q. Stout;2030;Calculate
+Malik Frazier;1110;Watch Movie
+Cherokee Conrad;940;Code
+Keaton Ross;1620;Paint
+Celeste Howell;700;Think
+Dustin E. Keller;1520;Rest
+Lucian W. Mcguire;1820;Sleep
+Kay Atkins;1550;Count
+Jerry C. Shannon;2100;Class
+Celeste Howell;2010;Watch YouTube
+Abbot Hall;850;Sleep
+Fuller F. Jacobs;1920;Watch TV
+Piper T. Burris;1810;Class
+Madeson Blake;1000;Give
+Hanae D. Webb;1850;Nap
+Dustin A. Adams;2010;Spell
+Kay Atkins;1120;Rest
+Rogan V. Stein;540;Sleep
+Robin T. Wolfe;940;Paint
+Oren Q. Stout;2100;Draw
+Cedric Q. Faulkner;940;Spell
+Boris R. Jimenez;600;Open
+Ivana Horne;1240;Spell
+Boris R. Jimenez;530;Calculate
+Lars A. Hays;1230;Code
+Rogan V. Stein;2100;Explain
+Malik Frazier;1630;Watch Movie
+James Arnold;1850;Exercise
+Mechelle U. Douglas;1840;Give
+Keaton Ross;1820;Show
+Oren Q. Stout;940;Play
+Brent Gill;2050;Rest
+Shelby Wade;940;Read
+Alvin Parks;910;Say
+Thane Abbott;2100;Class
+Reece G. Ferguson;1930;Watch Movie
+Robin T. Wolfe;930;Play Music
+Cruz Fernandez;1820;Explain
+Abbot Hall;1610;Paint
+Cedric Q. Faulkner;2400;Teach
+Solomon Mcgowan;2000;Class
+Driscoll David;2120;Give
+Alvin Parks;1850;Think
+Driscoll David;940;Eat
+Branden D. Salas;2240;Read
+Kennan Short;2100;Play Music
+Branden D. Salas;1650;Think
+Kay Atkins;1800;Sing
+Cruz Fernandez;2050;Paint
+Shelby Wade;2000;Run
+Lars A. Hays;2100;Eat
+Malik Frazier;1540;Teach
+Solomon Mcgowan;2100;Study
+Cherokee Conrad;1220;Spell
+Lucian W. Mcguire;1350;Read
+Jason F. Nieves;1640;Listen
+Levi L. Mckay;1810;Observe
+Jerry C. Shannon;1210;Say
+Robin T. Wolfe;750;Spell
+James Arnold;2220;Watch TV
+Angela H. Mack;540;Explain
+Dustin A. Adams;1520;Walk
+Erasmus Pruitt;1510;Listen
+Abbot Hall;2100;Study
+Lars A. Hays;1550;Watch TV
+Hanae D. Webb;2020;Class
+Erasmus Pruitt;1000;Ask
+Ivana Horne;1620;Think
+Alvin Parks;2450;Open
+Dustin A. Adams;600;Homework
+Dustin E. Keller;630;Listen
+Solomon Mcgowan;1540;Sing
+Thane Abbott;700;Watch YouTube
+Abbot Hall;1250;Think
+Boris R. Jimenez;540;Listen
+Ivana Horne;2400;Code
+Tanek Silva;650;Sing
+Kasimir Byrd;1120;Give
+Brent Gill;2350;Think
+Kasimir Byrd;1110;Nap
+Reece G. Ferguson;620;Study
+Kennan Short;2400;Run
+Malik Frazier;2400;Cut
+Dustin E. Keller;1000;Explain
+Kay Atkins;1850;Sleep
+Brent Gill;2310;Think
+Boris R. Jimenez;1220;Run
+Hanae D. Webb;2440;Run
+James Arnold;2050;Walk
+Reece G. Ferguson;2400;Teach
+Angela H. Mack;750;Close
+Piper T. Burris;1820;Teach
+Jerry C. Shannon;600;Run
+Celeste Howell;2400;Think
+Reece G. Ferguson;2120;Class
+Robin T. Wolfe;1850;Watch YouTube
+Paula L. Bridges;1250;Eat
+Branden D. Salas;1120;Open
+Keaton Ross;1540;Watch YouTube
+Tanek Silva;1350;Open
+Jasper V. Mooney;1440;Read
+Paula L. Bridges;2120;Class
+Keaton Ross;1850;Open
+Cherokee Conrad;1930;Homework
+Oren Q. Stout;1840;Experiment
+Thane Abbott;1550;Think
+Kay Atkins;1020;Rest
+Rogan V. Stein;2030;Walk
+Kasimir Byrd;1230;Close
+Bree Harrison;950;Play Music
+Robin T. Wolfe;1510;Sing
+Fuller F. Jacobs;1710;Cut
+Malik Frazier;1520;Play Music
+Reece G. Ferguson;1210;Hang Out
+Mechelle U. Douglas;1450;Class
+Cruz Fernandez;1120;Explain
+Kennan Short;530;Open
+James Arnold;2100;Close
+Thane Abbott;910;Hang Out
+Jason F. Nieves;2210;Cut
+Paula L. Bridges;1710;Spell
+Madeson Blake;1210;Experiment
+Shelby Wade;1520;Say
+Dustin A. Adams;540;Watch YouTube
+Peter Townsend;1920;Read
+Lars A. Hays;2440;Explain
+Tanek Silva;1110;Eat
+Jasper V. Mooney;1550;Game
+Eugenia Y. Dillard;1850;Listen
+Solomon Mcgowan;940;Teach
+Fuller F. Jacobs;2020;Play Music
+Malik Frazier;730;Explain
+Cherokee Conrad;950;Think
+Mechelle U. Douglas;1000;Walk
+Kay Atkins;1320;Calculate
+Jason F. Nieves;520;Code
+Lucian W. Mcguire;1710;Class
+Clayton Martinez;1000;Observe
+Solomon Mcgowan;1020;Eat
+James Arnold;2310;Exercise
+Driscoll David;1230;Watch Movie
+Reece G. Ferguson;2450;Spell
+Peter Townsend;540;Draw
+Rogan V. Stein;1020;Show
+Angela H. Mack;1640;Study
+Dustin A. Adams;2020;Eat
+Thane Abbott;2030;Class
+Angela H. Mack;850;Rest
+Hyacinth Stokes;2120;Read
+Angela H. Mack;1710;Class
+Branden D. Salas;1610;Walk
+Maisie Webster;1430;Eat
+Hyacinth Stokes;1850;Paint
+Piper T. Burris;1220;Homework
+Ivana Horne;1230;Draw
+Austin Gentry;2240;Sleep
+Reece G. Ferguson;2100;Open
+Paula L. Bridges;1510;Open
+Kay Atkins;2240;Explain
+Keaton Ross;1110;Think
+Levi L. Mckay;1800;Homework
+Ishmael Boyle;1000;Draw
+Celeste Howell;1000;Close
+Hyacinth Stokes;1110;Sing
+Angela H. Mack;1430;Experiment
+Lars A. Hays;940;Walk
+Piper T. Burris;1400;Study
+Brent Gill;500;Watch Movie
+Cedric Q. Faulkner;630;Cut
+Thane Abbott;1000;Open
+Driscoll David;2440;Rest
+Tanek Silva;750;Homework
+Piper T. Burris;1210;Nap
+Lucian W. Mcguire;1610;Eat
+Paula L. Bridges;750;Homework
+Kasimir Byrd;2350;Nap
+Shelby Wade;1610;Sing
+Paula L. Bridges;1240;Think
+Reece G. Ferguson;1220;Read
+Thane Abbott;730;Ask
+Erich S. Thornton;620;Study
+Jasper V. Mooney;2450;Class
+Oren Q. Stout;1120;Walk
+Levi L. Mckay;500;Watch TV
+Kasimir Byrd;1020;Study
+Lars A. Hays;950;Say
+Robin T. Wolfe;530;Observe
+Alvin Parks;1220;Sing
+Oren Q. Stout;520;Watch Movie
+Bree Harrison;2310;Run
+Paula L. Bridges;1110;Watch Movie
+James Arnold;1610;Teach
+Peter Townsend;1210;Watch Movie
+Erasmus Pruitt;630;Show
+Angela H. Mack;2440;Ask
+Maisie Webster;1650;Spell
+Dustin A. Adams;1000;Run
+Cherokee Conrad;1520;Class
+Cedric Q. Faulkner;850;Spell
+Austin Gentry;2020;Count
+Lucian W. Mcguire;1020;Read
+Peter Townsend;1400;Paint
+Cherokee Conrad;520;Game
+Jerry C. Shannon;1640;Open
+Brent Gill;1620;Spell
+Kasimir Byrd;1210;Class
+Cedric Q. Faulkner;1220;Play
+Maisie Webster;1020;Walk
+Eugenia Y. Dillard;1240;Teach
+Solomon Mcgowan;640;Teach
+Celeste Howell;2020;Give
+Angela H. Mack;1020;Ask
+Lucian W. Mcguire;1440;Play
+Oren Q. Stout;730;Study
+Hanae D. Webb;1550;Close
+Kay Atkins;2000;Class
+Levi L. Mckay;1540;Paint
+Cedric Q. Faulkner;530;Run
+Jasper V. Mooney;1250;Give
+Madeson Blake;1520;Ask
+Solomon Mcgowan;1840;Cut
+Hanae D. Webb;1020;Listen
+Tanek Silva;1210;Sing
+Shelby Wade;1220;Sleep
+Paula L. Bridges;1630;Game
+Jason F. Nieves;1850;Watch YouTube
+Oren Q. Stout;1320;Teach
+Robin T. Wolfe;1920;Game
+Hanae D. Webb;2010;Exercise
+Erasmus Pruitt;1210;Observe
+Peter Townsend;1020;Walk
+Celeste Howell;540;Homework
+Reece G. Ferguson;930;Sing
+Jason F. Nieves;640;Draw
+Malik Frazier;520;Cut
+Cedric Q. Faulkner;2240;Eat
+Bree Harrison;1920;Explain
+Celeste Howell;1510;Watch YouTube
+Ivana Horne;1000;Class
+Shelby Wade;1330;Study
+Tanek Silva;1630;Read
+Robin T. Wolfe;1520;Observe
+Jerry C. Shannon;2400;Class
+Clayton Martinez;1020;Rest
+Angela H. Mack;930;Calculate
+Austin Gentry;1220;Class
+Kennan Short;2310;Close
+Jason F. Nieves;2020;Think
+Branden D. Salas;1240;Watch Movie
+Paula L. Bridges;1820;Spell
+Kay Atkins;2120;Draw
+Robin T. Wolfe;1650;Homework
+Dustin E. Keller;1710;Code
+James Arnold;2400;Game
+Celeste Howell;2000;Close
+James Arnold;1430;Sing
+Cedric Q. Faulkner;1020;Give
+Cedric Q. Faulkner;2100;Play
+Brent Gill;2240;Spell
+Keaton Ross;640;Eat
+Cruz Fernandez;750;Count
+Dustin E. Keller;1610;Class
+Maisie Webster;730;Give
+Erasmus Pruitt;850;Think
+Austin Gentry;1520;Read
+Keaton Ross;1920;Play Music
+Abbot Hall;1120;Open
+Cherokee Conrad;1850;Calculate
+Erasmus Pruitt;1450;Walk
+Hanae D. Webb;1350;Paint
+Solomon Mcgowan;1400;Nap
+Cherokee Conrad;640;Play
+Jasper V. Mooney;1610;Code
+Kennan Short;1710;Explain
+Boris R. Jimenez;730;Open
+Kennan Short;2240;Cut
+Maisie Webster;1920;Open
+Tanek Silva;2010;Nap
+Ivana Horne;640;Watch YouTube
+Bree Harrison;1840;Observe
+Peter Townsend;1110;Play Music
+Tanek Silva;620;Class
+Malik Frazier;2440;Read
+Maisie Webster;620;Watch TV
+Piper T. Burris;2030;Game
+Peter Townsend;1800;Open
+Jerry C. Shannon;1020;Eat
+Keaton Ross;1510;Ask
+Boris R. Jimenez;1510;Code
+Erich S. Thornton;520;Nap
+Hyacinth Stokes;2300;Say
+Fuller F. Jacobs;1850;Class
+Solomon Mcgowan;1110;Rest
+Cruz Fernandez;940;Game
+Abbot Hall;1450;Play Music
+Dustin A. Adams;2400;Class
+Solomon Mcgowan;1450;Show
+Brent Gill;1210;Homework
+Oren Q. Stout;810;Give
+Lars A. Hays;1330;Explain
+Erich S. Thornton;1430;Exercise
+Jasper V. Mooney;1840;Close
+Paula L. Bridges;540;Game
+Keaton Ross;1330;Watch Movie
+Malik Frazier;1430;Say
+Fuller F. Jacobs;1620;Walk
+Abbot Hall;940;Watch YouTube
+Boris R. Jimenez;910;Draw
+Fuller F. Jacobs;1550;Calculate
+Levi L. Mckay;630;Close
+Robin T. Wolfe;1550;Run
+Hyacinth Stokes;1820;Think
+Shelby Wade;1820;Paint
+Erasmus Pruitt;1630;Sing
+Oren Q. Stout;1450;Play Music
+Driscoll David;1330;Count
+Levi L. Mckay;1520;Rest
+Jasper V. Mooney;2210;Spell
+Ivana Horne;520;Exercise
+Lucian W. Mcguire;1230;Nap
+Keaton Ross;1300;Open
+Jason F. Nieves;1550;Exercise
+Ivana Horne;2120;Watch Movie
+Mechelle U. Douglas;2220;Nap
+Maisie Webster;2000;Read
+Kasimir Byrd;2300;Calculate
+Maisie Webster;2400;Watch TV
+Austin Gentry;1610;Count
+Piper T. Burris;600;Exercise
+Abbot Hall;1810;Think
+Jason F. Nieves;620;Class
+Reece G. Ferguson;1020;Class
+Jasper V. Mooney;2400;Count
+Jasper V. Mooney;950;Explain
+Madeson Blake;940;Class
+Keaton Ross;2400;Give
+Kay Atkins;940;Walk
+Brent Gill;910;Run
+Fuller F. Jacobs;940;Nap
+Hanae D. Webb;1510;Sleep
+Ivana Horne;1850;Count
+Kennan Short;1510;Nap
+Eugenia Y. Dillard;1110;Homework
+Lucian W. Mcguire;1300;Observe
+Thane Abbott;750;Class
+Hyacinth Stokes;1210;Observe
+Boris R. Jimenez;2030;Study
+Erasmus Pruitt;540;Listen
+Dustin A. Adams;910;Paint
+Mechelle U. Douglas;1550;Paint
+Ishmael Boyle;1820;Hang Out
+Ivana Horne;540;Study
+Brent Gill;2440;Give
+Bree Harrison;1540;Cut
+Hyacinth Stokes;1550;Study
+Keaton Ross;1210;Sing
+Dustin A. Adams;1430;Class
+Oren Q. Stout;2300;Walk
+Oren Q. Stout;1300;Count
+Abbot Hall;1230;Show
+Angela H. Mack;1610;Observe
+Solomon Mcgowan;600;Experiment
+Dustin A. Adams;1220;Cut
+Erasmus Pruitt;1550;Class
+Rogan V. Stein;650;Code
+Clayton Martinez;1550;Walk
+Reece G. Ferguson;1000;Experiment
+Brent Gill;600;Calculate
+James Arnold;1520;Give
+Levi L. Mckay;1550;Play Music
+Paula L. Bridges;730;Study
+Solomon Mcgowan;620;Calculate
+Malik Frazier;1020;Read
+Shelby Wade;1210;Exercise
+Fuller F. Jacobs;600;Watch TV
+Paula L. Bridges;1020;Play

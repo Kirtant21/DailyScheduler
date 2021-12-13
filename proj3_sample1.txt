@@ -1,0 +1,116 @@
+./proj3 proj3_schedule1.txt
+
+***Manager***
+
+Opened File
+18 nodes loaded across 1 schedules.
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+1
+Schedule for 1
+18 activities scheduled
+800 : Wake up
+815 : Coffee
+830 : Gym
+915 : Shower and breakfast
+1015 : Travel to class
+1030 : Class 1
+1145 : Travel to Lunch
+1200 : Lunch and hang with friends
+1300 : Class 2
+1415 : Travel to class
+1430 : Class 3
+1545 : Travel home
+1600 : Homework and studying
+1800 : Dinner with friends
+1900 : Hang with friends
+2000 : Homework and studying
+2200 : Games, friends, and parties
+2400 : Sleep
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+2
+Done reversing Schedule 1
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+1
+Schedule for 1
+18 activities scheduled
+2400 : Sleep
+2200 : Games, friends, and parties
+2000 : Homework and studying
+1900 : Hang with friends
+1800 : Dinner with friends
+1600 : Homework and studying
+1545 : Travel home
+1430 : Class 3
+1415 : Travel to class
+1300 : Class 2
+1200 : Lunch and hang with friends
+1145 : Travel to Lunch
+1030 : Class 1
+1015 : Travel to class
+915 : Shower and breakfast
+830 : Gym
+815 : Coffee
+800 : Wake up
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+2
+Done reversing Schedule 1
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+3
+What is the name of the schedule you would like to insert into?
+What is the start time of the activity?
+What is the name of the activity?
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+1
+Schedule for 1
+19 activities scheduled
+800 : Wake up
+815 : Coffee
+830 : Gym
+845 : Eat protein bar
+915 : Shower and breakfast
+1015 : Travel to class
+1030 : Class 1
+1145 : Travel to Lunch
+1200 : Lunch and hang with friends
+1300 : Class 2
+1415 : Travel to class
+1430 : Class 3
+1545 : Travel home
+1600 : Homework and studying
+1800 : Dinner with friends
+1900 : Hang with friends
+2000 : Homework and studying
+2200 : Games, friends, and parties
+2400 : Sleep
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+4
+Schedules removed from memory
+Deleting Schedules

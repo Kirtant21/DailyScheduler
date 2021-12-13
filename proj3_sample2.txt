@@ -1,0 +1,1135 @@
+valgrind ./proj3 proj3_schedule3.txt
+
+***Manager***
+
+Opened File
+450 nodes loaded across 50 schedules.
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+1
+Schedule for Kennan Short
+10 activities scheduled
+530 : Open
+650 : Give
+930 : Close
+1510 : Nap
+1710 : Explain
+2100 : Play Music
+2120 : Study
+2240 : Cut
+2310 : Close
+2400 : Run
+Schedule for Jasper V. Mooney
+12 activities scheduled
+750 : Homework
+950 : Explain
+1220 : Say
+1250 : Give
+1440 : Read
+1550 : Game
+1610 : Code
+1630 : Spell
+1840 : Close
+2210 : Spell
+2400 : Count
+2450 : Class
+Schedule for Levi L. Mckay
+9 activities scheduled
+500 : Watch TV
+630 : Close
+1000 : Run
+1520 : Rest
+1540 : Paint
+1550 : Play Music
+1610 : Homework
+1800 : Homework
+1810 : Observe
+Schedule for Shelby Wade
+10 activities scheduled
+640 : Experiment
+940 : Read
+1210 : Exercise
+1220 : Sleep
+1330 : Study
+1520 : Say
+1610 : Sing
+1820 : Paint
+2000 : Run
+2050 : Say
+Schedule for Piper T. Burris
+8 activities scheduled
+600 : Exercise
+1120 : Watch TV
+1210 : Nap
+1220 : Homework
+1400 : Study
+1810 : Class
+1820 : Teach
+2030 : Game
+Schedule for Brent Gill
+13 activities scheduled
+500 : Watch Movie
+600 : Calculate
+910 : Run
+930 : Watch YouTube
+940 : Give
+1120 : Think
+1210 : Homework
+1620 : Spell
+2050 : Rest
+2240 : Spell
+2310 : Think
+2350 : Think
+2440 : Give
+Schedule for Alvin Parks
+5 activities scheduled
+910 : Say
+1220 : Sing
+1510 : Listen
+1850 : Think
+2450 : Open
+Schedule for Jason F. Nieves
+9 activities scheduled
+520 : Code
+620 : Class
+640 : Draw
+930 : Listen
+1550 : Exercise
+1640 : Listen
+1850 : Watch YouTube
+2020 : Think
+2210 : Cut
+Schedule for Lucian W. Mcguire
+10 activities scheduled
+1020 : Read
+1230 : Nap
+1300 : Observe
+1330 : Homework
+1350 : Read
+1440 : Play
+1610 : Eat
+1710 : Class
+1820 : Sleep
+2010 : Rest
+Schedule for Cherokee Conrad
+9 activities scheduled
+500 : Open
+520 : Game
+640 : Play
+940 : Code
+950 : Think
+1220 : Spell
+1520 : Class
+1850 : Calculate
+1930 : Homework
+Schedule for Madeson Blake
+8 activities scheduled
+810 : Exercise
+850 : Experiment
+940 : Class
+1000 : Give
+1210 : Experiment
+1520 : Ask
+1850 : Say
+2350 : Read
+Schedule for Boris R. Jimenez
+12 activities scheduled
+530 : Calculate
+540 : Listen
+600 : Open
+730 : Open
+910 : Draw
+1220 : Run
+1320 : Spell
+1510 : Code
+1540 : Sing
+2020 : Spell
+2030 : Study
+2400 : Draw
+Schedule for Branden D. Salas
+6 activities scheduled
+630 : Experiment
+1120 : Open
+1240 : Watch Movie
+1610 : Walk
+1650 : Think
+2240 : Read
+Schedule for Bree Harrison
+9 activities scheduled
+730 : Think
+950 : Play Music
+1110 : Read
+1250 : Homework
+1330 : Give
+1540 : Cut
+1840 : Observe
+1920 : Explain
+2310 : Run
+Schedule for Dustin E. Keller
+6 activities scheduled
+540 : Give
+630 : Listen
+1000 : Explain
+1520 : Rest
+1610 : Class
+1710 : Code
+Schedule for Erich S. Thornton
+5 activities scheduled
+520 : Nap
+620 : Study
+1430 : Exercise
+1620 : Code
+2030 : Class
+Schedule for Thane Abbott
+10 activities scheduled
+700 : Watch YouTube
+730 : Ask
+750 : Class
+910 : Hang Out
+1000 : Open
+1550 : Think
+1850 : Explain
+2030 : Class
+2100 : Class
+2350 : Give
+Schedule for Dustin A. Adams
+13 activities scheduled
+540 : Watch YouTube
+600 : Homework
+910 : Paint
+940 : Nap
+1000 : Run
+1220 : Cut
+1240 : Walk
+1300 : Ask
+1430 : Class
+1520 : Walk
+2010 : Spell
+2020 : Eat
+2400 : Class
+Schedule for Erasmus Pruitt
+11 activities scheduled
+540 : Listen
+630 : Show
+850 : Think
+1000 : Ask
+1020 : Play Music
+1210 : Observe
+1230 : Draw
+1450 : Walk
+1510 : Listen
+1550 : Class
+1630 : Sing
+Schedule for Hyacinth Stokes
+8 activities scheduled
+1110 : Sing
+1210 : Observe
+1350 : Game
+1550 : Study
+1820 : Think
+1850 : Paint
+2120 : Read
+2300 : Say
+Schedule for Jerry C. Shannon
+8 activities scheduled
+600 : Run
+700 : Class
+940 : Play Music
+1020 : Eat
+1210 : Say
+1640 : Open
+2100 : Class
+2400 : Class
+Schedule for Kasimir Byrd
+8 activities scheduled
+810 : Walk
+1020 : Study
+1110 : Nap
+1120 : Give
+1210 : Class
+1230 : Close
+2300 : Calculate
+2350 : Nap
+Schedule for Abbot Hall
+11 activities scheduled
+850 : Sleep
+940 : Watch YouTube
+1120 : Open
+1230 : Show
+1250 : Think
+1440 : Teach
+1450 : Play Music
+1610 : Paint
+1650 : Observe
+1810 : Think
+2100 : Study
+Schedule for Driscoll David
+7 activities scheduled
+630 : Exercise
+940 : Eat
+1110 : Rest
+1230 : Watch Movie
+1330 : Count
+2120 : Give
+2440 : Rest
+Schedule for Keaton Ross
+13 activities scheduled
+640 : Eat
+1110 : Think
+1210 : Sing
+1220 : Sleep
+1300 : Open
+1330 : Watch Movie
+1510 : Ask
+1540 : Watch YouTube
+1620 : Paint
+1820 : Show
+1850 : Open
+1920 : Play Music
+2400 : Give
+Schedule for Reece G. Ferguson
+13 activities scheduled
+620 : Study
+930 : Sing
+1000 : Experiment
+1020 : Class
+1210 : Hang Out
+1220 : Read
+1320 : Ask
+1610 : Eat
+1930 : Watch Movie
+2100 : Open
+2120 : Class
+2400 : Teach
+2450 : Spell
+Schedule for Solomon Mcgowan
+14 activities scheduled
+600 : Experiment
+620 : Calculate
+640 : Teach
+940 : Teach
+1020 : Eat
+1110 : Rest
+1300 : Ask
+1400 : Nap
+1450 : Show
+1540 : Sing
+1840 : Cut
+2000 : Class
+2100 : Study
+2400 : Play Music
+Schedule for Paula L. Bridges
+14 activities scheduled
+540 : Game
+730 : Study
+750 : Homework
+1020 : Play
+1110 : Watch Movie
+1220 : Game
+1230 : Paint
+1240 : Think
+1250 : Eat
+1510 : Open
+1630 : Game
+1710 : Spell
+1820 : Spell
+2120 : Class
+Schedule for Ivana Horne
+11 activities scheduled
+520 : Exercise
+540 : Study
+640 : Watch YouTube
+1000 : Class
+1220 : Listen
+1230 : Draw
+1240 : Spell
+1620 : Think
+1850 : Count
+2120 : Watch Movie
+2400 : Code
+Schedule for James Arnold
+11 activities scheduled
+1250 : Sleep
+1430 : Sing
+1510 : Show
+1520 : Give
+1610 : Teach
+1850 : Exercise
+2050 : Walk
+2100 : Close
+2220 : Watch TV
+2310 : Exercise
+2400 : Game
+Schedule for Lars A. Hays
+10 activities scheduled
+940 : Walk
+950 : Say
+1220 : Run
+1230 : Code
+1330 : Explain
+1540 : Exercise
+1550 : Watch TV
+1810 : Listen
+2100 : Eat
+2440 : Explain
+Schedule for Hanae D. Webb
+9 activities scheduled
+1020 : Listen
+1350 : Paint
+1510 : Sleep
+1550 : Close
+1800 : Walk
+1850 : Nap
+2010 : Exercise
+2020 : Class
+2440 : Run
+Schedule for Ishmael Boyle
+3 activities scheduled
+850 : Experiment
+1000 : Draw
+1820 : Hang Out
+Schedule for Maisie Webster
+9 activities scheduled
+620 : Watch TV
+730 : Give
+1020 : Walk
+1430 : Eat
+1650 : Spell
+1920 : Open
+2000 : Read
+2120 : Study
+2400 : Watch TV
+Schedule for Eugenia Y. Dillard
+4 activities scheduled
+1110 : Homework
+1240 : Teach
+1850 : Listen
+2030 : Study
+Schedule for Rogan V. Stein
+6 activities scheduled
+540 : Sleep
+650 : Code
+1020 : Show
+1210 : Play Music
+2030 : Walk
+2100 : Explain
+Schedule for Oren Q. Stout
+13 activities scheduled
+520 : Watch Movie
+730 : Study
+810 : Give
+940 : Play
+1120 : Walk
+1300 : Count
+1320 : Teach
+1450 : Play Music
+1550 : Play
+1840 : Experiment
+2030 : Calculate
+2100 : Draw
+2300 : Walk
+Schedule for Clayton Martinez
+4 activities scheduled
+1000 : Observe
+1020 : Rest
+1450 : Open
+1550 : Walk
+Schedule for Kay Atkins
+11 activities scheduled
+940 : Walk
+1020 : Rest
+1120 : Rest
+1320 : Calculate
+1350 : Class
+1550 : Count
+1800 : Sing
+1850 : Sleep
+2000 : Class
+2120 : Draw
+2240 : Explain
+Schedule for Malik Frazier
+11 activities scheduled
+520 : Cut
+730 : Explain
+1020 : Read
+1110 : Watch Movie
+1230 : Ask
+1430 : Say
+1520 : Play Music
+1540 : Teach
+1630 : Watch Movie
+2400 : Cut
+2440 : Read
+Schedule for Fuller F. Jacobs
+9 activities scheduled
+600 : Watch TV
+940 : Nap
+1220 : Watch YouTube
+1550 : Calculate
+1620 : Walk
+1710 : Cut
+1850 : Class
+1920 : Watch TV
+2020 : Play Music
+Schedule for Angela H. Mack
+11 activities scheduled
+540 : Explain
+750 : Close
+850 : Rest
+930 : Calculate
+1020 : Ask
+1430 : Experiment
+1610 : Observe
+1640 : Study
+1710 : Class
+2240 : Paint
+2440 : Ask
+Schedule for Celeste Howell
+8 activities scheduled
+540 : Homework
+700 : Think
+1000 : Close
+1510 : Watch YouTube
+2000 : Close
+2010 : Watch YouTube
+2020 : Give
+2400 : Think
+Schedule for Robin T. Wolfe
+10 activities scheduled
+530 : Observe
+750 : Spell
+930 : Play Music
+940 : Paint
+1510 : Sing
+1520 : Observe
+1550 : Run
+1650 : Homework
+1850 : Watch YouTube
+1920 : Game
+Schedule for Cedric Q. Faulkner
+9 activities scheduled
+530 : Run
+630 : Cut
+850 : Spell
+940 : Spell
+1020 : Give
+1220 : Play
+2100 : Play
+2240 : Eat
+2400 : Teach
+Schedule for Mechelle U. Douglas
+5 activities scheduled
+1000 : Walk
+1450 : Class
+1550 : Paint
+1840 : Give
+2220 : Nap
+Schedule for Cruz Fernandez
+5 activities scheduled
+750 : Count
+940 : Game
+1120 : Explain
+1820 : Explain
+2050 : Paint
+Schedule for Tanek Silva
+8 activities scheduled
+620 : Class
+650 : Sing
+750 : Homework
+1110 : Eat
+1210 : Sing
+1350 : Open
+1630 : Read
+2010 : Nap
+Schedule for Peter Townsend
+7 activities scheduled
+540 : Draw
+1020 : Walk
+1110 : Play Music
+1210 : Watch Movie
+1400 : Paint
+1800 : Open
+1920 : Read
+Schedule for Austin Gentry
+5 activities scheduled
+1220 : Class
+1520 : Read
+1610 : Count
+2020 : Count
+2240 : Sleep
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+2
+Which schedule to reverse?
+Choose 1 - 50
+Done reversing Schedule 1
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+1
+Schedule for Kennan Short
+10 activities scheduled
+2400 : Run
+2310 : Close
+2240 : Cut
+2120 : Study
+2100 : Play Music
+1710 : Explain
+1510 : Nap
+930 : Close
+650 : Give
+530 : Open
+Schedule for Jasper V. Mooney
+12 activities scheduled
+750 : Homework
+950 : Explain
+1220 : Say
+1250 : Give
+1440 : Read
+1550 : Game
+1610 : Code
+1630 : Spell
+1840 : Close
+2210 : Spell
+2400 : Count
+2450 : Class
+Schedule for Levi L. Mckay
+9 activities scheduled
+500 : Watch TV
+630 : Close
+1000 : Run
+1520 : Rest
+1540 : Paint
+1550 : Play Music
+1610 : Homework
+1800 : Homework
+1810 : Observe
+Schedule for Shelby Wade
+10 activities scheduled
+640 : Experiment
+940 : Read
+1210 : Exercise
+1220 : Sleep
+1330 : Study
+1520 : Say
+1610 : Sing
+1820 : Paint
+2000 : Run
+2050 : Say
+Schedule for Piper T. Burris
+8 activities scheduled
+600 : Exercise
+1120 : Watch TV
+1210 : Nap
+1220 : Homework
+1400 : Study
+1810 : Class
+1820 : Teach
+2030 : Game
+Schedule for Brent Gill
+13 activities scheduled
+500 : Watch Movie
+600 : Calculate
+910 : Run
+930 : Watch YouTube
+940 : Give
+1120 : Think
+1210 : Homework
+1620 : Spell
+2050 : Rest
+2240 : Spell
+2310 : Think
+2350 : Think
+2440 : Give
+Schedule for Alvin Parks
+5 activities scheduled
+910 : Say
+1220 : Sing
+1510 : Listen
+1850 : Think
+2450 : Open
+Schedule for Jason F. Nieves
+9 activities scheduled
+520 : Code
+620 : Class
+640 : Draw
+930 : Listen
+1550 : Exercise
+1640 : Listen
+1850 : Watch YouTube
+2020 : Think
+2210 : Cut
+Schedule for Lucian W. Mcguire
+10 activities scheduled
+1020 : Read
+1230 : Nap
+1300 : Observe
+1330 : Homework
+1350 : Read
+1440 : Play
+1610 : Eat
+1710 : Class
+1820 : Sleep
+2010 : Rest
+Schedule for Cherokee Conrad
+9 activities scheduled
+500 : Open
+520 : Game
+640 : Play
+940 : Code
+950 : Think
+1220 : Spell
+1520 : Class
+1850 : Calculate
+1930 : Homework
+Schedule for Madeson Blake
+8 activities scheduled
+810 : Exercise
+850 : Experiment
+940 : Class
+1000 : Give
+1210 : Experiment
+1520 : Ask
+1850 : Say
+2350 : Read
+Schedule for Boris R. Jimenez
+12 activities scheduled
+530 : Calculate
+540 : Listen
+600 : Open
+730 : Open
+910 : Draw
+1220 : Run
+1320 : Spell
+1510 : Code
+1540 : Sing
+2020 : Spell
+2030 : Study
+2400 : Draw
+Schedule for Branden D. Salas
+6 activities scheduled
+630 : Experiment
+1120 : Open
+1240 : Watch Movie
+1610 : Walk
+1650 : Think
+2240 : Read
+Schedule for Bree Harrison
+9 activities scheduled
+730 : Think
+950 : Play Music
+1110 : Read
+1250 : Homework
+1330 : Give
+1540 : Cut
+1840 : Observe
+1920 : Explain
+2310 : Run
+Schedule for Dustin E. Keller
+6 activities scheduled
+540 : Give
+630 : Listen
+1000 : Explain
+1520 : Rest
+1610 : Class
+1710 : Code
+Schedule for Erich S. Thornton
+5 activities scheduled
+520 : Nap
+620 : Study
+1430 : Exercise
+1620 : Code
+2030 : Class
+Schedule for Thane Abbott
+10 activities scheduled
+700 : Watch YouTube
+730 : Ask
+750 : Class
+910 : Hang Out
+1000 : Open
+1550 : Think
+1850 : Explain
+2030 : Class
+2100 : Class
+2350 : Give
+Schedule for Dustin A. Adams
+13 activities scheduled
+540 : Watch YouTube
+600 : Homework
+910 : Paint
+940 : Nap
+1000 : Run
+1220 : Cut
+1240 : Walk
+1300 : Ask
+1430 : Class
+1520 : Walk
+2010 : Spell
+2020 : Eat
+2400 : Class
+Schedule for Erasmus Pruitt
+11 activities scheduled
+540 : Listen
+630 : Show
+850 : Think
+1000 : Ask
+1020 : Play Music
+1210 : Observe
+1230 : Draw
+1450 : Walk
+1510 : Listen
+1550 : Class
+1630 : Sing
+Schedule for Hyacinth Stokes
+8 activities scheduled
+1110 : Sing
+1210 : Observe
+1350 : Game
+1550 : Study
+1820 : Think
+1850 : Paint
+2120 : Read
+2300 : Say
+Schedule for Jerry C. Shannon
+8 activities scheduled
+600 : Run
+700 : Class
+940 : Play Music
+1020 : Eat
+1210 : Say
+1640 : Open
+2100 : Class
+2400 : Class
+Schedule for Kasimir Byrd
+8 activities scheduled
+810 : Walk
+1020 : Study
+1110 : Nap
+1120 : Give
+1210 : Class
+1230 : Close
+2300 : Calculate
+2350 : Nap
+Schedule for Abbot Hall
+11 activities scheduled
+850 : Sleep
+940 : Watch YouTube
+1120 : Open
+1230 : Show
+1250 : Think
+1440 : Teach
+1450 : Play Music
+1610 : Paint
+1650 : Observe
+1810 : Think
+2100 : Study
+Schedule for Driscoll David
+7 activities scheduled
+630 : Exercise
+940 : Eat
+1110 : Rest
+1230 : Watch Movie
+1330 : Count
+2120 : Give
+2440 : Rest
+Schedule for Keaton Ross
+13 activities scheduled
+640 : Eat
+1110 : Think
+1210 : Sing
+1220 : Sleep
+1300 : Open
+1330 : Watch Movie
+1510 : Ask
+1540 : Watch YouTube
+1620 : Paint
+1820 : Show
+1850 : Open
+1920 : Play Music
+2400 : Give
+Schedule for Reece G. Ferguson
+13 activities scheduled
+620 : Study
+930 : Sing
+1000 : Experiment
+1020 : Class
+1210 : Hang Out
+1220 : Read
+1320 : Ask
+1610 : Eat
+1930 : Watch Movie
+2100 : Open
+2120 : Class
+2400 : Teach
+2450 : Spell
+Schedule for Solomon Mcgowan
+14 activities scheduled
+600 : Experiment
+620 : Calculate
+640 : Teach
+940 : Teach
+1020 : Eat
+1110 : Rest
+1300 : Ask
+1400 : Nap
+1450 : Show
+1540 : Sing
+1840 : Cut
+2000 : Class
+2100 : Study
+2400 : Play Music
+Schedule for Paula L. Bridges
+14 activities scheduled
+540 : Game
+730 : Study
+750 : Homework
+1020 : Play
+1110 : Watch Movie
+1220 : Game
+1230 : Paint
+1240 : Think
+1250 : Eat
+1510 : Open
+1630 : Game
+1710 : Spell
+1820 : Spell
+2120 : Class
+Schedule for Ivana Horne
+11 activities scheduled
+520 : Exercise
+540 : Study
+640 : Watch YouTube
+1000 : Class
+1220 : Listen
+1230 : Draw
+1240 : Spell
+1620 : Think
+1850 : Count
+2120 : Watch Movie
+2400 : Code
+Schedule for James Arnold
+11 activities scheduled
+1250 : Sleep
+1430 : Sing
+1510 : Show
+1520 : Give
+1610 : Teach
+1850 : Exercise
+2050 : Walk
+2100 : Close
+2220 : Watch TV
+2310 : Exercise
+2400 : Game
+Schedule for Lars A. Hays
+10 activities scheduled
+940 : Walk
+950 : Say
+1220 : Run
+1230 : Code
+1330 : Explain
+1540 : Exercise
+1550 : Watch TV
+1810 : Listen
+2100 : Eat
+2440 : Explain
+Schedule for Hanae D. Webb
+9 activities scheduled
+1020 : Listen
+1350 : Paint
+1510 : Sleep
+1550 : Close
+1800 : Walk
+1850 : Nap
+2010 : Exercise
+2020 : Class
+2440 : Run
+Schedule for Ishmael Boyle
+3 activities scheduled
+850 : Experiment
+1000 : Draw
+1820 : Hang Out
+Schedule for Maisie Webster
+9 activities scheduled
+620 : Watch TV
+730 : Give
+1020 : Walk
+1430 : Eat
+1650 : Spell
+1920 : Open
+2000 : Read
+2120 : Study
+2400 : Watch TV
+Schedule for Eugenia Y. Dillard
+4 activities scheduled
+1110 : Homework
+1240 : Teach
+1850 : Listen
+2030 : Study
+Schedule for Rogan V. Stein
+6 activities scheduled
+540 : Sleep
+650 : Code
+1020 : Show
+1210 : Play Music
+2030 : Walk
+2100 : Explain
+Schedule for Oren Q. Stout
+13 activities scheduled
+520 : Watch Movie
+730 : Study
+810 : Give
+940 : Play
+1120 : Walk
+1300 : Count
+1320 : Teach
+1450 : Play Music
+1550 : Play
+1840 : Experiment
+2030 : Calculate
+2100 : Draw
+2300 : Walk
+Schedule for Clayton Martinez
+4 activities scheduled
+1000 : Observe
+1020 : Rest
+1450 : Open
+1550 : Walk
+Schedule for Kay Atkins
+11 activities scheduled
+940 : Walk
+1020 : Rest
+1120 : Rest
+1320 : Calculate
+1350 : Class
+1550 : Count
+1800 : Sing
+1850 : Sleep
+2000 : Class
+2120 : Draw
+2240 : Explain
+Schedule for Malik Frazier
+11 activities scheduled
+520 : Cut
+730 : Explain
+1020 : Read
+1110 : Watch Movie
+1230 : Ask
+1430 : Say
+1520 : Play Music
+1540 : Teach
+1630 : Watch Movie
+2400 : Cut
+2440 : Read
+Schedule for Fuller F. Jacobs
+9 activities scheduled
+600 : Watch TV
+940 : Nap
+1220 : Watch YouTube
+1550 : Calculate
+1620 : Walk
+1710 : Cut
+1850 : Class
+1920 : Watch TV
+2020 : Play Music
+Schedule for Angela H. Mack
+11 activities scheduled
+540 : Explain
+750 : Close
+850 : Rest
+930 : Calculate
+1020 : Ask
+1430 : Experiment
+1610 : Observe
+1640 : Study
+1710 : Class
+2240 : Paint
+2440 : Ask
+Schedule for Celeste Howell
+8 activities scheduled
+540 : Homework
+700 : Think
+1000 : Close
+1510 : Watch YouTube
+2000 : Close
+2010 : Watch YouTube
+2020 : Give
+2400 : Think
+Schedule for Robin T. Wolfe
+10 activities scheduled
+530 : Observe
+750 : Spell
+930 : Play Music
+940 : Paint
+1510 : Sing
+1520 : Observe
+1550 : Run
+1650 : Homework
+1850 : Watch YouTube
+1920 : Game
+Schedule for Cedric Q. Faulkner
+9 activities scheduled
+530 : Run
+630 : Cut
+850 : Spell
+940 : Spell
+1020 : Give
+1220 : Play
+2100 : Play
+2240 : Eat
+2400 : Teach
+Schedule for Mechelle U. Douglas
+5 activities scheduled
+1000 : Walk
+1450 : Class
+1550 : Paint
+1840 : Give
+2220 : Nap
+Schedule for Cruz Fernandez
+5 activities scheduled
+750 : Count
+940 : Game
+1120 : Explain
+1820 : Explain
+2050 : Paint
+Schedule for Tanek Silva
+8 activities scheduled
+620 : Class
+650 : Sing
+750 : Homework
+1110 : Eat
+1210 : Sing
+1350 : Open
+1630 : Read
+2010 : Nap
+Schedule for Peter Townsend
+7 activities scheduled
+540 : Draw
+1020 : Walk
+1110 : Play Music
+1210 : Watch Movie
+1400 : Paint
+1800 : Open
+1920 : Read
+Schedule for Austin Gentry
+5 activities scheduled
+1220 : Class
+1520 : Read
+1610 : Count
+2020 : Count
+2240 : Sleep
+What would you like to do?: 
+1. Display Schedules
+2. Reverse Schedules
+3. Insert New Item
+4. Exit
+4
+Schedules removed from memory
+Deleting Schedules

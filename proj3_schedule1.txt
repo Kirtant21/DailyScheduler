@@ -1,0 +1,18 @@
+1;800;Wake up
+1;815;Coffee
+1;830;Gym
+1;915;Shower and breakfast
+1;1015;Travel to class
+1;1030;Class 1
+1;1145;Travel to Lunch
+1;1200;Lunch and hang with friends
+1;1300;Class 2
+1;1415;Travel to class
+1;1430;Class 3
+1;1545;Travel home
+1;1600;Homework and studying
+1;1800;Dinner with friends
+1;1900;Hang with friends
+1;2000;Homework and studying
+1;2200;Games, friends, and parties
+1;2400;Sleep
